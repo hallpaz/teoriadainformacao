@@ -233,10 +233,10 @@ Função Distância com Sinal
 <!-- _class: invert -->
 <!-- _paginate: false -->
 
-# Compressão e Multiresolução
+# Compressão e Multirresolução
 
 ---
-# Compressão e Multiresolução
+# Compressão e Multirresolução
 
 - ~~Armazenar amostras~~ Armazenar os pesos da rede?
 * Podemos solicitar o sinal em qualquer resolução
